@@ -7,9 +7,9 @@
 - Contains `server-stats.sh`: A Bash script to check server performance.
 - Provides:
   - CPU usage
-  - Memory usage (used/free and %)
-  - Disk usage (used/free and %)
-  - Top 5 processes by CPU
+  - Total memory usage (Free vs Used including percentage)
+  - Total disk usage (Free vs Used including percentage)
+  - Top 5 processes by CPU usage 
   - Top 5 processes by memory
 - Can be extended to include OS version, uptime, logged-in users, etc.
 
