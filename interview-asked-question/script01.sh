@@ -23,3 +23,9 @@ done
 #     echo "USAGE=$usage"
 #     echo "MOUNT=$mountpoint"
 # done
+
+
+# echo "hello\world" | while read -r line
+# do
+#     echo "$line"
+# done
