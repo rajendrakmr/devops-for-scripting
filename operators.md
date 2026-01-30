@@ -1,7 +1,7 @@
 
 ---
-
-## Before advanaced need to know basic
+# Bash Scripting Basics
+## Before Advanced Concepts — Must Know Basics
 - Operator List
   - Comparison Operators (strings)
 ```bash
