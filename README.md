@@ -1,7 +1,7 @@
 
 ---
 
-## Day-wise Summary
+## Day-wise Summary 
 
 ### Day 01
 - Contains `server-stats.sh`: A Bash script to check server performance.
@@ -25,5 +25,4 @@
 
 1. Navigate into the desired day folder:
 
-```bash
-cd ~/Desktop/scripting/day-01
+
